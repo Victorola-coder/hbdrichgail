@@ -213,6 +213,7 @@ body {
 .wish-hbd {
   font-size: 3em;
   margin: 0;
+  /* word-spacing: 2px; */
   text-transform: uppercase;
 }
 
